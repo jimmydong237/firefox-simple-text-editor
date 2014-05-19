@@ -1,11 +1,29 @@
 {
-  "name": "text-editor",
-  "title": "Text editor",
+  "name": "simple-text-editor",
+  "title": "Simple Text Editor",
   "id": "jid1-x0Bcnm0U8Qki0Q",
   "description": "A simple text editor for your sweet browser.",
   "author": "_kud",
   "license": "MPL 2.0",
   "homepage": "http://kud.io",
   "version": "0.1",
-  "icon":"data/icon-64.png"
+  "icon":"data/icon-64.png",
+  "preferences": [
+    {
+      "name": "editorType",
+      "title": "What type of editor?",
+      "type": "radio",
+      "value": "S",
+      "options": [
+        {
+          "value": "S",
+          "label": "Simple"
+        },
+        {
+          "value": "A",
+          "label": "Advanced"
+        }
+      ]
+    }
+  ]
 }

@@ -2,7 +2,7 @@
 
 ## Installation
 
-[Install it!](https://github.com/kud/firefox-text-editor/raw/master/dist/text-button.xpi)
+[Install it!](https://github.com/kud/firefox-text-editor/raw/master/dist/text-editor.xpi)
 
 ## Usage
 
