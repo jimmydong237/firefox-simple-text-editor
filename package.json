@@ -5,8 +5,8 @@
   "description": "A simple text editor for your sweet browser.",
   "author": "_kud",
   "license": "MPL 2.0",
-  "homepage": "http://kud.io",
-  "version": "0.1",
+  "homepage": "https://github.com/kud/firefox-simple-text-editor",
+  "version": "0.2",
   "icon":"data/icon-64.png",
   "preferences": [
     {
