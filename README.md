@@ -17,3 +17,8 @@ $ make run
 ```
 $ make compile
 ```
+
+## Change log
+
+- v0.2: save content
+- v0.1: classic features
