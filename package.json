@@ -6,7 +6,7 @@
   "author": "_kud",
   "license": "MPL 2.0",
   "homepage": "https://github.com/kud/firefox-simple-text-editor",
-  "version": "0.2",
+  "version": "0.2.1",
   "icon":"data/icon-64.png",
   "preferences": [
     {
