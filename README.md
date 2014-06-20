@@ -2,7 +2,7 @@
 
 ## Installation
 
-[Install it!](https://github.com/kud/firefox-text-editor/raw/master/dist/text-editor.xpi)
+[Install it!](https://github.com/kud/firefox-simple-text-editor/raw/master/dist/simple-text-editor.xpi)
 
 ## Usage
 
